@@ -30,11 +30,12 @@ if __name__ == "__main__":
 
     stream.filter(
         track=[
+            "#Amoulanfé",
             "#Amoulanfe",
-            "Amoulanfe",
             "#Kibaro",
-            "#Guinee",
+            "#Guinea",
             "#Amoufuckinglanfe",
-            "#Amounomalandé",
+            "#Amoufuckinglanfé",
+            "#FNDC",
         ]
     )
