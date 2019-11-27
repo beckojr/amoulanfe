@@ -33,7 +33,6 @@ if __name__ == "__main__":
             "#Amoulanfé",
             "#Amoulanfe",
             "#Kibaro",
-            "#Guinea",
             "#Amoufuckinglanfe",
             "#Amoufuckinglanfé",
             "#FNDC",
