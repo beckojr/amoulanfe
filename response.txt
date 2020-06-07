@@ -1,0 +1,6 @@
+Bonjour @{mention},
+Saviez-vous que Guinée-conakry n’existe pas?
+Pays: Guinée ou république de Guinée.
+Capitale: Conakry
+
+Tous les autres pays ont un préfixe ou un suffixe Guinée-Équatoriale, Nouvelle Guinée, Guinée Bissau
