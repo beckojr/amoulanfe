@@ -24,10 +24,12 @@ stream = Stream(auth=api.auth, listener=listener)
 stream.filter(
     track=[
         "#GuineeVote",
+        "#GuinéeVote",
         "#GuineeVote2020",
         "#Amoulanfe",
         "#Kibaro",
         "#FNDC",
         "Guinee",
+        "#AllRising4Guinea",
     ],
 )
