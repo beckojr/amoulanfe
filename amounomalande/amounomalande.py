@@ -22,5 +22,12 @@ stream = Stream(auth=api.auth, listener=listener)
 # )
 
 stream.filter(
-    track=["#Amoulanfe", "#FreeFonike", "#FNDC", "Guinee", "#AllRising4Guinea",],
+    track=[
+        "#Amoulanfe",
+        "#FreeFonike",
+        "#FNDC",
+        "Guinee",
+        "#AllRising4Guinea",
+        "#Kibaro",
+    ],
 )
